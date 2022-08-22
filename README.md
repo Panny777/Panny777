@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Muniru Mrisho
-- 👀 I’m interested in Web Development and Artificial intelligence
+- 👀 I’m interested in Web and Mobile Developement
+
 - 📫 How to reach me;
      Email: muniru.panya13@gmial.com
      Phone: +2556214333903
