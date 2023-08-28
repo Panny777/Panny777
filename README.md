@@ -12,6 +12,6 @@
 
 ---
 
-<img src="https://worldvectorlogo.com/download/html-1.svg" alt="HTML Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/download/html-1.svg" alt="HTML Logo" width="50" height="50"/>
 
 
