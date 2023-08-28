@@ -1,4 +1,4 @@
-- 👋 <b>Hi, I’m @Muniru Mrisho</b>
+### - 👋 Hi, I’m @Muniru Mrisho
 - 👀 I’m interested in Web and Mobile development
 
 - 📫 How to reach me;
