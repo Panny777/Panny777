@@ -17,4 +17,4 @@
 
 
 ### 🛠 Tools
- <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="HTML Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="HTML Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="HTML Logo" width="50" height="50"/>     <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="HTML Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="HTML Logo" width="50" height="50"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="HTML Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="HTML Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="HTML Logo" width="50" height="50"/>     <img src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" alt="HTML Logo" width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="HTML Logo" width="50" height="50"/>    <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="HTML Logo" width="50" height="50"/>
