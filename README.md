@@ -8,7 +8,7 @@
 
 ---
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=panny777&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=panny777&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 💻 Tech Stack
 
